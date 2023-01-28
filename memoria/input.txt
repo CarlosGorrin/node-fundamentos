@@ -1,0 +1,5 @@
+Soy un 
+archivo
+para probar 
+cosas del
+archivo stream
